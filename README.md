@@ -81,6 +81,4 @@ sociallibrary/
 └── README.md
 ```
 
-## Geliştirme
 
-Bu proje Yazılım Laboratuvarı 1 (2025-2026) Proje 2 kapsamında geliştirilmektedir.
